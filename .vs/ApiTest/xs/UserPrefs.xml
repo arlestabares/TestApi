@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{38EDA744-DBC4-4908-B511-714B7D9CBB5F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ApiTest PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiTest/Controllers/RouletteController.cs">
+    <Files>
+      <File FileName="ApiTest/Controllers/RouletteController.cs" Line="140" Column="1" />
+      <File FileName="BusinessEntitiess/DataBaseEntities/Roulette.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApiTest" expanded="True">
+            <Node name="ApiTest" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="RouletteController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="BusinessEntities" expanded="True">
+              <Node name="DataBaseEntities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>BusinessEntities/BusinessEntities.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yz/ZN76utElPqyvBZY0i5Psg5fl8gxQiBBD5oBolxiv19ZszaJhyLConruhV2xpHfqhLb1wGNX6sDWKBAfng9A==",
+  "success": true,
+  "projectFilePath": "/Users/nadie/Projects/ApiTest/BusinessEntitiess/BusinessEntities.csproj",
+  "expectedPackageFiles": [
+    "/Users/nadie/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/nadie/.nuget/packages/npgsql/4.1.4/npgsql.4.1.4.nupkg.sha512",
+    "/Users/nadie/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

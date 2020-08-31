@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "74+/+gErzk1WcxuR93IaRZmI7XSEYjTlaa3E1qrBfV1DvVfOJ2H/c4zg1bI//6CemocO5jYO9bsdkUpJhM2+FA==",
+  "success": true,
+  "projectFilePath": "/Users/nadie/Projects/ApiTest/ApiTest/ApiTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/nadie/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/nadie/.nuget/packages/npgsql/4.1.4/npgsql.4.1.4.nupkg.sha512",
+    "/Users/nadie/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

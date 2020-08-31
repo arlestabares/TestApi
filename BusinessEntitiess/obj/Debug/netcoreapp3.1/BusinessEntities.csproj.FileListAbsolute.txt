@@ -1,0 +1,9 @@
+/Users/nadie/Projects/ApiTest/BusinessEntitiess/bin/Debug/netcoreapp3.1/BusinessEntities.deps.json
+/Users/nadie/Projects/ApiTest/BusinessEntitiess/bin/Debug/netcoreapp3.1/BusinessEntities.dll
+/Users/nadie/Projects/ApiTest/BusinessEntitiess/bin/Debug/netcoreapp3.1/BusinessEntities.pdb
+/Users/nadie/Projects/ApiTest/BusinessEntitiess/obj/Debug/netcoreapp3.1/BusinessEntities.AssemblyInfoInputs.cache
+/Users/nadie/Projects/ApiTest/BusinessEntitiess/obj/Debug/netcoreapp3.1/BusinessEntities.AssemblyInfo.cs
+/Users/nadie/Projects/ApiTest/BusinessEntitiess/obj/Debug/netcoreapp3.1/BusinessEntities.csproj.CoreCompileInputs.cache
+/Users/nadie/Projects/ApiTest/BusinessEntitiess/obj/Debug/netcoreapp3.1/BusinessEntities.dll
+/Users/nadie/Projects/ApiTest/BusinessEntitiess/obj/Debug/netcoreapp3.1/BusinessEntities.pdb
+/Users/nadie/Projects/ApiTest/BusinessEntitiess/obj/Debug/netcoreapp3.1/BusinessEntities.csprojAssemblyReference.cache

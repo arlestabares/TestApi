@@ -1,0 +1,5 @@
+/Users/nadie/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.csprojAssemblyReference.cache
+/Users/nadie/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.AssemblyInfoInputs.cache
+/Users/nadie/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.AssemblyInfo.cs
+/Users/nadie/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.csproj.CoreCompileInputs.cache
+/Users/nadie/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.MvcApplicationPartsAssemblyInfo.cache

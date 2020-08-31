@@ -1,0 +1,38 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:11333",
+      "sslPort": 44372
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "api/roulette",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DATA_BASE_HOST": "loscalhost",
+        "DATA_BASE_USER": "postgres",
+        "DATA_BASE_PASSWORD": "123",
+        "DATA_BASE_NAME": "testDB"
+      }
+    },
+    "ApiTest": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/roulette",
+      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DATA_BASE_HOST": "localhost",
+        "DATA_BASE_USER": "postgres",
+        "DATA_BASE_PASSWORD": "123",
+        "DATA_BASE_NAME": "testDB"
+      }
+    }
+  }
+}
