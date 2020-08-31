@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.ApiTest PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ApiTest/Controllers/RouletteController.cs">
     <Files>
-      <File FileName="ApiTest/Controllers/RouletteController.cs" Line="140" Column="1" />
+      <File FileName="ApiTest/Controllers/RouletteController.cs" Line="77" Column="27" />
       <File FileName="BusinessEntitiess/DataBaseEntities/Roulette.cs" />
     </Files>
     <Pads>
